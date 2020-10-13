@@ -4,12 +4,12 @@ Basic realization of microfrontend and web components concepts.
 
 # Usage
 
-`
+    
 - clone repo
 - npm install
 - npm run dev
 - open browser on localhost:3000
-`
+    
 
 # Details
 
